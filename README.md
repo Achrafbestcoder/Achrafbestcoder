@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Achrafbestcoder
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on a wife hahahaha
+- 🌱 I’m currently learning JavaScript
+
 - 📫 How to reach me call me 0706389418
 
 <!---
